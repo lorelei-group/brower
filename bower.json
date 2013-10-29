@@ -1,0 +1,13 @@
+{
+  "name": "lorelei-brower",
+  "version": "0.0.0",
+  "authors": [
+    "A. Matías Quezada <amatiasq@gmail.com>"
+  ],
+  "main": "src/main.js",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.0.8",
+    "less": "~1.5.0"
+  }
+}
